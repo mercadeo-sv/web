@@ -1,0 +1,185 @@
+Array
+(
+    [0] => Array
+        (
+            [0] => 42S22
+            [SQLSTATE] => 42S22
+            [1] => 207
+            [code] => 207
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'NOM_ARCHIVO'.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'NOM_ARCHIVO'.
+        )
+
+    [1] => Array
+        (
+            [0] => 42S22
+            [SQLSTATE] => 42S22
+            [1] => 207
+            [code] => 207
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'NOM_ARCHIVO'.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'NOM_ARCHIVO'.
+        )
+
+    [2] => Array
+        (
+            [0] => 42S22
+            [SQLSTATE] => 42S22
+            [1] => 207
+            [code] => 207
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'NOM_ARCHIVO'.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'NOM_ARCHIVO'.
+        )
+
+)
+[2024-12-05 04:47:53] Error en la página: /PORTAL/proy_mes.php
+Usuario: Usuario no autenticado
+Detalles del error:
+Array
+(
+    [0] => Array
+        (
+            [0] => 42S22
+            [SQLSTATE] => 42S22
+            [1] => 207
+            [code] => 207
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'NOM_ARCHIVO'.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'NOM_ARCHIVO'.
+        )
+
+    [1] => Array
+        (
+            [0] => 42S22
+            [SQLSTATE] => 42S22
+            [1] => 207
+            [code] => 207
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'NOM_ARCHIVO'.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'NOM_ARCHIVO'.
+        )
+
+    [2] => Array
+        (
+            [0] => 42S22
+            [SQLSTATE] => 42S22
+            [1] => 207
+            [code] => 207
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'NOM_ARCHIVO'.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'NOM_ARCHIVO'.
+        )
+
+)
+
+----------------------------------------
+[2024-12-05 04:49:50] Error en la página: /PORTAL/proy_mes.php
+Usuario: Usuario no autenticado
+Detalles del error:
+Array
+(
+    [0] => Array
+        (
+            [0] => 42S22
+            [SQLSTATE] => 42S22
+            [1] => 207
+            [code] => 207
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'NOM_ARCHIVO'.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'NOM_ARCHIVO'.
+        )
+
+    [1] => Array
+        (
+            [0] => 42S22
+            [SQLSTATE] => 42S22
+            [1] => 207
+            [code] => 207
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'NOM_ARCHIVO'.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'NOM_ARCHIVO'.
+        )
+
+    [2] => Array
+        (
+            [0] => 42S22
+            [SQLSTATE] => 42S22
+            [1] => 207
+            [code] => 207
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'NOM_ARCHIVO'.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'NOM_ARCHIVO'.
+        )
+
+)
+
+----------------------------------------
+[2024-12-05 04:50:10] Error en la página: /PORTAL/proy_mes.php
+Usuario: Usuario no autenticado
+Detalles del error:
+Array
+(
+    [0] => Array
+        (
+            [0] => 42S22
+            [SQLSTATE] => 42S22
+            [1] => 207
+            [code] => 207
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'NOM_ARCHIVO'.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'NOM_ARCHIVO'.
+        )
+
+    [1] => Array
+        (
+            [0] => 42S22
+            [SQLSTATE] => 42S22
+            [1] => 207
+            [code] => 207
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'NOM_ARCHIVO'.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'NOM_ARCHIVO'.
+        )
+
+    [2] => Array
+        (
+            [0] => 42S22
+            [SQLSTATE] => 42S22
+            [1] => 207
+            [code] => 207
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'NOM_ARCHIVO'.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'NOM_ARCHIVO'.
+        )
+
+)
+
+----------------------------------------
+[2024-12-04 21:53:59] Error en la página: /PORTAL/proy_mes.php
+Usuario: erick.hernandez
+Detalles del error:
+Array
+(
+    [0] => Array
+        (
+            [0] => 42S22
+            [SQLSTATE] => 42S22
+            [1] => 207
+            [code] => 207
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'NOM_ARCHIVO'.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'NOM_ARCHIVO'.
+        )
+
+    [1] => Array
+        (
+            [0] => 42S22
+            [SQLSTATE] => 42S22
+            [1] => 207
+            [code] => 207
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'NOM_ARCHIVO'.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'NOM_ARCHIVO'.
+        )
+
+    [2] => Array
+        (
+            [0] => 42S22
+            [SQLSTATE] => 42S22
+            [1] => 207
+            [code] => 207
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'NOM_ARCHIVO'.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'NOM_ARCHIVO'.
+        )
+
+)
+
+----------------------------------------

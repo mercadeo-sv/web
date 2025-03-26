@@ -1,0 +1,970 @@
+Array
+(
+    [0] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 53
+            [code] => 53
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]Named Pipes Provider: Could not open a connection to SQL Server [53]. 
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]Named Pipes Provider: Could not open a connection to SQL Server [53]. 
+        )
+
+    [1] => Array
+        (
+            [0] => HYT00
+            [SQLSTATE] => HYT00
+            [1] => 0
+            [code] => 0
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired
+        )
+
+    [2] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 53
+            [code] => 53
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online.
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 53
+            [code] => 53
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]Named Pipes Provider: Could not open a connection to SQL Server [53]. 
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]Named Pipes Provider: Could not open a connection to SQL Server [53]. 
+        )
+
+    [1] => Array
+        (
+            [0] => HYT00
+            [SQLSTATE] => HYT00
+            [1] => 0
+            [code] => 0
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired
+        )
+
+    [2] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 53
+            [code] => 53
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online.
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 53
+            [code] => 53
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]Named Pipes Provider: Could not open a connection to SQL Server [53]. 
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]Named Pipes Provider: Could not open a connection to SQL Server [53]. 
+        )
+
+    [1] => Array
+        (
+            [0] => HYT00
+            [SQLSTATE] => HYT00
+            [1] => 0
+            [code] => 0
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired
+        )
+
+    [2] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 53
+            [code] => 53
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online.
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [0] => 28000
+            [SQLSTATE] => 28000
+            [1] => 18456
+            [code] => 18456
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user 'sa'.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user 'sa'.
+        )
+
+    [1] => Array
+        (
+            [0] => 28000
+            [SQLSTATE] => 28000
+            [1] => 18456
+            [code] => 18456
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user 'sa'.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user 'sa'.
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 53
+            [code] => 53
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]Named Pipes Provider: Could not open a connection to SQL Server [53]. 
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]Named Pipes Provider: Could not open a connection to SQL Server [53]. 
+        )
+
+    [1] => Array
+        (
+            [0] => HYT00
+            [SQLSTATE] => HYT00
+            [1] => 0
+            [code] => 0
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired
+        )
+
+    [2] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 53
+            [code] => 53
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online.
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 53
+            [code] => 53
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]Named Pipes Provider: Could not open a connection to SQL Server [53]. 
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]Named Pipes Provider: Could not open a connection to SQL Server [53]. 
+        )
+
+    [1] => Array
+        (
+            [0] => HYT00
+            [SQLSTATE] => HYT00
+            [1] => 0
+            [code] => 0
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired
+        )
+
+    [2] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 53
+            [code] => 53
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online.
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 53
+            [code] => 53
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]Named Pipes Provider: Could not open a connection to SQL Server [53]. 
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]Named Pipes Provider: Could not open a connection to SQL Server [53]. 
+        )
+
+    [1] => Array
+        (
+            [0] => HYT00
+            [SQLSTATE] => HYT00
+            [1] => 0
+            [code] => 0
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired
+        )
+
+    [2] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 53
+            [code] => 53
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online.
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 53
+            [code] => 53
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]Named Pipes Provider: Could not open a connection to SQL Server [53]. 
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]Named Pipes Provider: Could not open a connection to SQL Server [53]. 
+        )
+
+    [1] => Array
+        (
+            [0] => HYT00
+            [SQLSTATE] => HYT00
+            [1] => 0
+            [code] => 0
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired
+        )
+
+    [2] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 53
+            [code] => 53
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online.
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 53
+            [code] => 53
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]Named Pipes Provider: Could not open a connection to SQL Server [53]. 
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]Named Pipes Provider: Could not open a connection to SQL Server [53]. 
+        )
+
+    [1] => Array
+        (
+            [0] => HYT00
+            [SQLSTATE] => HYT00
+            [1] => 0
+            [code] => 0
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired
+        )
+
+    [2] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 53
+            [code] => 53
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online.
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [0] => 28000
+            [SQLSTATE] => 28000
+            [1] => 18456
+            [code] => 18456
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user 'sa'.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user 'sa'.
+        )
+
+    [1] => Array
+        (
+            [0] => 28000
+            [SQLSTATE] => 28000
+            [1] => 18456
+            [code] => 18456
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user 'sa'.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user 'sa'.
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 53
+            [code] => 53
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]Named Pipes Provider: Could not open a connection to SQL Server [53]. 
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]Named Pipes Provider: Could not open a connection to SQL Server [53]. 
+        )
+
+    [1] => Array
+        (
+            [0] => HYT00
+            [SQLSTATE] => HYT00
+            [1] => 0
+            [code] => 0
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired
+        )
+
+    [2] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 53
+            [code] => 53
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online.
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 53
+            [code] => 53
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]Named Pipes Provider: Could not open a connection to SQL Server [53]. 
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]Named Pipes Provider: Could not open a connection to SQL Server [53]. 
+        )
+
+    [1] => Array
+        (
+            [0] => HYT00
+            [SQLSTATE] => HYT00
+            [1] => 0
+            [code] => 0
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired
+        )
+
+    [2] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 53
+            [code] => 53
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online.
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 53
+            [code] => 53
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]Named Pipes Provider: Could not open a connection to SQL Server [53]. 
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]Named Pipes Provider: Could not open a connection to SQL Server [53]. 
+        )
+
+    [1] => Array
+        (
+            [0] => HYT00
+            [SQLSTATE] => HYT00
+            [1] => 0
+            [code] => 0
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired
+        )
+
+    [2] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 53
+            [code] => 53
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online.
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 53
+            [code] => 53
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]Named Pipes Provider: Could not open a connection to SQL Server [53]. 
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]Named Pipes Provider: Could not open a connection to SQL Server [53]. 
+        )
+
+    [1] => Array
+        (
+            [0] => HYT00
+            [SQLSTATE] => HYT00
+            [1] => 0
+            [code] => 0
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired
+        )
+
+    [2] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 53
+            [code] => 53
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online.
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 53
+            [code] => 53
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]Named Pipes Provider: Could not open a connection to SQL Server [53]. 
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]Named Pipes Provider: Could not open a connection to SQL Server [53]. 
+        )
+
+    [1] => Array
+        (
+            [0] => HYT00
+            [SQLSTATE] => HYT00
+            [1] => 0
+            [code] => 0
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired
+        )
+
+    [2] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 53
+            [code] => 53
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online.
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 53
+            [code] => 53
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]Named Pipes Provider: Could not open a connection to SQL Server [53]. 
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]Named Pipes Provider: Could not open a connection to SQL Server [53]. 
+        )
+
+    [1] => Array
+        (
+            [0] => HYT00
+            [SQLSTATE] => HYT00
+            [1] => 0
+            [code] => 0
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired
+        )
+
+    [2] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 53
+            [code] => 53
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online.
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 53
+            [code] => 53
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]Named Pipes Provider: Could not open a connection to SQL Server [53]. 
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]Named Pipes Provider: Could not open a connection to SQL Server [53]. 
+        )
+
+    [1] => Array
+        (
+            [0] => HYT00
+            [SQLSTATE] => HYT00
+            [1] => 0
+            [code] => 0
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired
+        )
+
+    [2] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 53
+            [code] => 53
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online.
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 53
+            [code] => 53
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]Named Pipes Provider: Could not open a connection to SQL Server [53]. 
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]Named Pipes Provider: Could not open a connection to SQL Server [53]. 
+        )
+
+    [1] => Array
+        (
+            [0] => HYT00
+            [SQLSTATE] => HYT00
+            [1] => 0
+            [code] => 0
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired
+        )
+
+    [2] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 53
+            [code] => 53
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online.
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 53
+            [code] => 53
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]Named Pipes Provider: Could not open a connection to SQL Server [53]. 
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]Named Pipes Provider: Could not open a connection to SQL Server [53]. 
+        )
+
+    [1] => Array
+        (
+            [0] => HYT00
+            [SQLSTATE] => HYT00
+            [1] => 0
+            [code] => 0
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired
+        )
+
+    [2] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 53
+            [code] => 53
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online.
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 121
+            [code] => 121
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]Named Pipes Provider: Could not open a connection to SQL Server [121]. 
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]Named Pipes Provider: Could not open a connection to SQL Server [121]. 
+        )
+
+    [1] => Array
+        (
+            [0] => HYT00
+            [SQLSTATE] => HYT00
+            [1] => 0
+            [code] => 0
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired
+        )
+
+    [2] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 121
+            [code] => 121
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online.
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 121
+            [code] => 121
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]Named Pipes Provider: Could not open a connection to SQL Server [121]. 
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]Named Pipes Provider: Could not open a connection to SQL Server [121]. 
+        )
+
+    [1] => Array
+        (
+            [0] => HYT00
+            [SQLSTATE] => HYT00
+            [1] => 0
+            [code] => 0
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired
+        )
+
+    [2] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 121
+            [code] => 121
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online.
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 121
+            [code] => 121
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]Named Pipes Provider: Could not open a connection to SQL Server [121]. 
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]Named Pipes Provider: Could not open a connection to SQL Server [121]. 
+        )
+
+    [1] => Array
+        (
+            [0] => HYT00
+            [SQLSTATE] => HYT00
+            [1] => 0
+            [code] => 0
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired
+        )
+
+    [2] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 121
+            [code] => 121
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online.
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 121
+            [code] => 121
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]Named Pipes Provider: Could not open a connection to SQL Server [121]. 
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]Named Pipes Provider: Could not open a connection to SQL Server [121]. 
+        )
+
+    [1] => Array
+        (
+            [0] => HYT00
+            [SQLSTATE] => HYT00
+            [1] => 0
+            [code] => 0
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired
+        )
+
+    [2] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 121
+            [code] => 121
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online.
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 121
+            [code] => 121
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]Named Pipes Provider: Could not open a connection to SQL Server [121]. 
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]Named Pipes Provider: Could not open a connection to SQL Server [121]. 
+        )
+
+    [1] => Array
+        (
+            [0] => HYT00
+            [SQLSTATE] => HYT00
+            [1] => 0
+            [code] => 0
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired
+        )
+
+    [2] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 121
+            [code] => 121
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online.
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 121
+            [code] => 121
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]Named Pipes Provider: Could not open a connection to SQL Server [121]. 
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]Named Pipes Provider: Could not open a connection to SQL Server [121]. 
+        )
+
+    [1] => Array
+        (
+            [0] => HYT00
+            [SQLSTATE] => HYT00
+            [1] => 0
+            [code] => 0
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired
+        )
+
+    [2] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 121
+            [code] => 121
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online.
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 121
+            [code] => 121
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]Named Pipes Provider: Could not open a connection to SQL Server [121]. 
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]Named Pipes Provider: Could not open a connection to SQL Server [121]. 
+        )
+
+    [1] => Array
+        (
+            [0] => HYT00
+            [SQLSTATE] => HYT00
+            [1] => 0
+            [code] => 0
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired
+        )
+
+    [2] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 121
+            [code] => 121
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online.
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 121
+            [code] => 121
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]Named Pipes Provider: Could not open a connection to SQL Server [121]. 
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]Named Pipes Provider: Could not open a connection to SQL Server [121]. 
+        )
+
+    [1] => Array
+        (
+            [0] => HYT00
+            [SQLSTATE] => HYT00
+            [1] => 0
+            [code] => 0
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired
+        )
+
+    [2] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 121
+            [code] => 121
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online.
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 121
+            [code] => 121
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]Named Pipes Provider: Could not open a connection to SQL Server [121]. 
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]Named Pipes Provider: Could not open a connection to SQL Server [121]. 
+        )
+
+    [1] => Array
+        (
+            [0] => HYT00
+            [SQLSTATE] => HYT00
+            [1] => 0
+            [code] => 0
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired
+        )
+
+    [2] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 121
+            [code] => 121
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online.
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 121
+            [code] => 121
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]Named Pipes Provider: Could not open a connection to SQL Server [121]. 
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]Named Pipes Provider: Could not open a connection to SQL Server [121]. 
+        )
+
+    [1] => Array
+        (
+            [0] => HYT00
+            [SQLSTATE] => HYT00
+            [1] => 0
+            [code] => 0
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired
+        )
+
+    [2] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 121
+            [code] => 121
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online.
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 53
+            [code] => 53
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]Named Pipes Provider: Could not open a connection to SQL Server [53]. 
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]Named Pipes Provider: Could not open a connection to SQL Server [53]. 
+        )
+
+    [1] => Array
+        (
+            [0] => HYT00
+            [SQLSTATE] => HYT00
+            [1] => 0
+            [code] => 0
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired
+        )
+
+    [2] => Array
+        (
+            [0] => 08001
+            [SQLSTATE] => 08001
+            [1] => 53
+            [code] => 53
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online.
+        )
+
+)
